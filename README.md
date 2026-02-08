@@ -1,84 +1,99 @@
-<h2 align="left">Hi 👋! My name is Hemant Arya and I'm a Full Stack MERN Developer from India</h2>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+<h3 align="center">I'm Hemant Arya — Full Stack MERN Developer from India</h3>
+
+<p align="center">
+🚀 1.5+ Years Experience | Building Scalable Web Applications <br>
+💼 Freelance + Internship + Professional Experience <br>
+🎯 Open to Full Stack / React / Node.js Opportunities
+</p>
+
+---
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,firebase,vercel" height="60"/>
 </div>
 
-###
+<p align="center">
+Frontend: React.js • Next.js • Tailwind CSS • JavaScript • TypeScript <br>
+Backend: Node.js • Express.js • REST APIs <br>
+Database: MongoDB <br>
+Tools: Git • Postman • Firebase • GHL • n8n • Vercel • Render
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+---
 
-###
+<h2 align="center">About Me</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+<p align="center">
+Full Stack Developer specializing in the MERN stack with hands-on experience building responsive, scalable, and production-ready web applications. <br>
+I enjoy turning ideas into real-world products, writing clean code, and solving business problems through technology. <br>
+Currently improving my skills in System Design and advanced backend architecture.
+</p>
+
+---
+
+<h2 align="center">What I Do</h2>
+
+<p align="center">
+✔ Build scalable full stack web applications <br>
+✔ Develop modern dashboards & admin panels <br>
+✔ Design clean and responsive UI/UX <br>
+✔ Integrate APIs, authentication & databases <br>
+✔ Deliver real-world production solutions
+</p>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+🔹 Travel Portfolio Web App – Travel packages platform with admin dashboard (Next.js + MERN) <br>
+🔹 Coinstax – Crypto portfolio tracking & analytics dashboard <br>
+🔹 GoDecormate – Home decor e-commerce web application <br>
+🔹 Ezee2Fly – Travel services & booking platform <br>
+🔹 TagMumbai – Location-based digital solution <br>
+🔹 Vizual.ai – AI-powered interactive application
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemantArya786&show_icons=true&theme=dracula&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=HemantArya786&theme=dracula" height="160"/>
 </div>
 
-###
+<br>
 
-<h3 align="left">About Me</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArya786&layout=compact&theme=dracula" height="150"/>
+</div>
 
-<p align="left">
-💼 1.5+ years of experience (Freelance + Internship + Professional)<br>
-🚀 Built live production apps like GoDecormate, Coinstax, Ezee2Fly, TagMumbai, Vizual.ai & Travel Portfolio Web App<br>
-⚡ Specialized in MERN Stack (React, Next.js, Node.js, MongoDB)<br>
-📚 Currently learning System Design & scalable architectures<br>
-🎯 Goal: Build impactful full-stack products used by thousands of users
-</p>
+---
 
-###
+<h2 align="center">Connect With Me</h2>
 
-<h3 align="left">Featured Projects</h3>
-
-<p align="left">
-• Travel Portfolio Web App – Next.js travel booking & admin dashboard<br>
-• Coinstax – Crypto portfolio tracking platform<br>
-• GoDecormate – Home decor e-commerce web app<br>
-• Ezee2Fly – Travel services platform<br>
-• TagMumbai – Location-based web solution<br>
-• Vizual.ai – AI-powered interactive application
-</p>
-
-###
-
-<div align="left">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+<div align="center">
+  <a href="https://hemant-arya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-website-green?style=for-the-badge"/>
   </a>
+  <a href="https://linkedin.com/in/hemantarya786" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hemantarya7860@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HemantArya786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+</p>
